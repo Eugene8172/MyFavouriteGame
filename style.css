@@ -30,6 +30,13 @@ header img {
     margin-right: 25px;
 }
 
+.Buy {
+    color: black;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 4px;
+}
+
 .Navigation1 h1 {
     color: aquamarine;
     text-align: left;
@@ -56,12 +63,16 @@ header img {
     color: darkorange;
 }
 
-.Whyskyrim {
+.WhySkyrim {
     color: lime;
 }
 
 .IntFacts {
     color: deepskyblue;
+}
+
+.Basement {
+    color: goldenrod;
 }
 
 h1 {
@@ -171,15 +182,22 @@ footer p {
 
 footer b {
     color:lightgreen;
-    font-size:27px;
+    font-size:20px;
 }
 
 .Site {
     color: crimson;
+    font-size: 27px;
+}
+
+.Contacts {
+    color: darkturquoise;
+    font-size: 23px;
 }
 
 .Integration {
     color: rgb(48, 181, 156);
+    font-size: 27px;
 }
 
 .Githab {
