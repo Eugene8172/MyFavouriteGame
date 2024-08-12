@@ -5,7 +5,9 @@ body {
 
 header img {
     width: 250px;
-    margin-left: 470px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .Scrolls {
@@ -34,12 +36,32 @@ header img {
 }
 
 .Navigation2 a {
-    color: rgb(127, 203, 203);
     text-decoration: none;
+    font-size: 20px;
 }
 
 .Navigation2 {
     list-style-type: none;
+}
+
+.Forg {
+    color: cornflowerblue;
+}
+
+.Besedka {
+    color: crimson;
+}
+
+.Creator {
+    color: darkorange;
+}
+
+.Whyskyrim {
+    color: lime;
+}
+
+.IntFacts {
+    color: deepskyblue;
 }
 
 h1 {
@@ -51,48 +73,6 @@ h1 {
 .HI {
     color: white;
     font-size: 20px;
-    text-align: center;
-}
-
-.Cont1 {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
-}
-
-.Cont2 {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
-}
-
-.Cont3 {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
-}
-
-.Start , .ToStart {
-    border: 3px whitesmoke solid;
-    margin-top: 20px;
-    border-radius: 25px;
-    width: 350px;  
-    text-align: center;  
-}
-
-.Med , .ToEnd {
-    border: 3px whitesmoke solid;
-    margin-top: 20px;
-    border-radius: 25px;
-    width: 350px;
-    text-align: center;
-}
-
-.End {
-    border: 3px whitesmoke solid;
-    margin-top: 20px;
-    border-radius: 25px;
-    width: 730px;
     text-align: center;
 }
 
@@ -179,3 +159,52 @@ main p {
     text-decoration: none;
 }
 
+footer {
+    background-color: darkgreen;
+    border-radius: 15px;
+}
+
+footer p {
+    font-size:20px;
+    color:gold;
+}
+
+footer b {
+    color:lightgreen;
+    font-size:27px;
+}
+
+.Site {
+    color: crimson;
+}
+
+.Integration {
+    color: rgb(48, 181, 156);
+}
+
+.Githab {
+    color: white;
+    text-decoration: none;
+}
+
+.Githab img {
+    width: 25px;
+}
+
+.Discord {
+    color: DodgerBlue;
+    text-decoration: none;
+}
+
+.Discord img {
+    width: 25px;
+}
+
+.Steam {
+    color: black;
+    text-decoration: none;
+}
+
+.Steam img {
+    width: 25px;
+}
