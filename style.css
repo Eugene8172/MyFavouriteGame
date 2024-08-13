@@ -216,6 +216,8 @@ footer b {
 
 .Github img {
     width: 25px;
+    margin-left: 5px;
+    margin-bottom: -5px;
 }
 
 .Discord {
@@ -225,6 +227,8 @@ footer b {
 
 .Discord img {
     width: 25px;
+    margin-left: 5px;
+    margin-bottom: -5px;
 }
 
 .Steam {
@@ -234,4 +238,6 @@ footer b {
 
 .Steam img {
     width: 25px;
+    margin-left: 5px;
+    margin-bottom: -5px;
 }
