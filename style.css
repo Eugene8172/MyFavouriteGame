@@ -28,6 +28,7 @@ header img {
     justify-content: center;
     display: center;
     margin-top: 6px;
+    padding: 4px;
 }
 
 .Navigation a {
@@ -42,8 +43,8 @@ header img {
     border-radius: 10px;
     padding:6px;
     display: center;
-    margin-top: 6px;
-    margin-bottom: 6px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 .Navigation1 h1 {
@@ -84,13 +85,18 @@ header img {
     color: goldenrod;
 }
 
-h1 {
+.HI {
     text-align: center;
     color: chartreuse;
     font-family: "arial black";
 }
 
-.HI {
+.HI img {
+    width: 50px;
+    margin-bottom: -7px;
+}
+
+.ForHI {
     color: white;
     font-size: 20px;
     text-align: center;
@@ -100,9 +106,23 @@ h1 {
     color: cornflowerblue;
 }
 
-.ForGame {
-    border-radius: 10px;
+.ForGame0 {
     background-color: rgb(166, 114, 50);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    display: center;   
+}
+
+.ForGame0 img {
+    padding: 4px;
+    border-radius: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ForGame {
+    font-size: 20px;
     padding: 4px;
 }
 
@@ -110,30 +130,79 @@ h1 {
     color: crimson;
 }
 
-.ForBethesda {
-    border-radius: 10px;
+.ForBethesda0 {
     background-color: darkred;
+    border-radius: 10px;   
+}
+
+.ForBethesda0 img {
+    padding: 6px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 550px;
+}
+
+.ForBethesda {
     padding: 4px;
+    font-size: 20px;
+}
+
+.Todd1 {
+    color: aquamarine;
+    text-decoration: none;
 }
 
 .Todd {
     color: darkorange;
 }
 
-.ForTodd {
-    border-radius: 10px;
+.ForTodd0 {
     background-color: darkslategray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    display: center;     
+}
+
+.ForTodd0 img {
     padding: 4px;
+    border-radius: 25px;
+    width: 550px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ForTodd {
+    padding: 4px;
+    font-size: 20px;
 }
 
 .Skyrim {
     color: lime;
 }
 
-.ForSkyrim {
-    border-radius: 10px;
+.ForSkyrim0 {
     background-color: darkolivegreen;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    display: center;     
+}
+
+.ForSkyrim0 img {
+    padding: 6px;
+    border-radius: 25px;
+    width: 300px;
+    height: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ForSkyrim {
     padding: 4px;
+    font-size: 20px;
 }
 
 .Facts {
@@ -144,6 +213,7 @@ h1 {
     background-color: darkblue;
     border-radius: 10px;
     padding: 4px;
+    font-size: 20px;
 }
 
 .Language {
@@ -177,11 +247,6 @@ main h2 {
 main p {
     color: antiquewhite;
     font-size: 18px;
-}
-
-.Todd1 {
-    color: aquamarine;
-    text-decoration: none;
 }
 
 footer {
