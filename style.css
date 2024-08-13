@@ -26,11 +26,13 @@ header img {
     background-color: black;
     display: flex;
     justify-content: center;
+    display: center;
 }
 
 .Navigation a {
     text-decoration: none;
     margin-right: 25px;
+    padding: 4px;
 }
 
 .Buy {
