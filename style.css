@@ -27,6 +27,7 @@ header img {
     display: flex;
     justify-content: center;
     display: center;
+    margin-top: 6px;
 }
 
 .Navigation a {
