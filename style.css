@@ -119,6 +119,7 @@ header img {
     border-radius: 25px;
     margin-top: auto;
     margin-bottom: auto;
+    width: auto;
 }
 
 .ForGame {
@@ -169,7 +170,7 @@ header img {
 .ForTodd0 img {
     padding: 4px;
     border-radius: 25px;
-    width: 300;
+    width: 300px;
     margin-top: auto;
     margin-bottom: auto;
 }
