@@ -97,6 +97,7 @@ h1 {
 .ForGame {
     border-radius: 10px;
     background-color: rgb(166, 114, 50);
+    padding: 4px;
 }
 
 .Bethesda {
@@ -106,6 +107,7 @@ h1 {
 .ForBethesda {
     border-radius: 10px;
     background-color: darkred;
+    padding: 4px;
 }
 
 .Todd {
@@ -115,6 +117,7 @@ h1 {
 .ForTodd {
     border-radius: 10px;
     background-color: darkslategray;
+    padding: 4px;
 }
 
 .Skyrim {
@@ -124,6 +127,7 @@ h1 {
 .ForSkyrim {
     border-radius: 10px;
     background-color: darkolivegreen;
+    padding: 4px;
 }
 
 .Facts {
@@ -133,6 +137,7 @@ h1 {
 .ForFacts {
     background-color: darkblue;
     border-radius: 10px;
+    padding: 4px;
 }
 
 .Language {
