@@ -11,11 +11,11 @@ header img {
 }
 
 .Scrolls {
-    font-size: 30px;
+    font-size: 25px;
     color: rgb(99, 12, 12);
     font-family: "matura mt script capitals";
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 4px;
 }
 
@@ -40,8 +40,10 @@ header img {
     color: black;
     background-color: blue;
     border-radius: 10px;
-    padding: 4px;
-    font-size: ;
+    padding:6px;
+    display: center;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 
 .Navigation1 h1 {
