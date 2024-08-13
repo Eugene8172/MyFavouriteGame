@@ -15,7 +15,7 @@ header img {
     color: rgb(99, 12, 12);
     font-family: "matura mt script capitals";
     background-color: brown;
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 4px;
 }
 
@@ -24,6 +24,8 @@ header img {
     color: blue;
     list-style-type: none;
     background-color: black;
+    display: flex;
+    justify-content: center;
 }
 
 .Navigation a {
