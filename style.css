@@ -169,7 +169,7 @@ header img {
 .ForTodd0 img {
     padding: 4px;
     border-radius: 25px;
-    width: 550px;
+    width: auto;
     margin-top: auto;
     margin-bottom: auto;
 }
