@@ -19,7 +19,7 @@ header img {
     padding: 4px;
 }
 
-.Navigation {
+nav {
     font-size: 20px;
     color: blue;
     list-style-type: none;
@@ -31,7 +31,7 @@ header img {
     padding: 4px;
 }
 
-.Navigation a {
+nav a {
     text-decoration: none;
     margin-right: 25px;
     padding: 4px;
@@ -104,6 +104,7 @@ header img {
 
 .Game {
     color: cornflowerblue;
+    font-size: 35px;
 }
 
 .ForGame0 {
@@ -119,7 +120,7 @@ header img {
     border-radius: 25px;
     margin-top: auto;
     margin-bottom: auto;
-    width: 210px;
+    width: 200px;
 }
 
 .ForGame {
@@ -129,6 +130,7 @@ header img {
 
 .Bethesda {
     color: crimson;
+    font-size: 35px;
 }
 
 .ForBethesda0 {
@@ -157,6 +159,7 @@ header img {
 
 .Todd {
     color: darkorange;
+    font-size: 35px;
 }
 
 .ForTodd0 {
@@ -182,6 +185,7 @@ header img {
 
 .Skyrim {
     color: lime;
+    font-size: 35px;
 }
 
 .ForSkyrim0 {
@@ -208,6 +212,7 @@ header img {
 
 .Facts {
     color: deepskyblue;
+    font-size: 35px;
 }
 
 .ForFacts {
